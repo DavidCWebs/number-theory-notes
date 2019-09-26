@@ -38,6 +38,7 @@ For example:
 
 105 = 3 ∙ 5 ∙ 7 divides 1260 = 2² ∙ 3² ∙ 5 ∙ 7
 
+
 Coprime
 -------
 ::: tip Lemma
@@ -49,6 +50,10 @@ If two numbers share no prime factors, they are coprime.
 For example:
 
 6 = 2 ∙ 3 and 35 = 5 ∙ 7. Because they do not share prime factors, they are coprime.
+
+Easy criterion for divisibility given prime factorization - Coprime numbers don’t share prime factors
+
+If two numbers are coprime and they divide _n_, their product also divides _n_.
 
 Greatest Common Divisor
 -----------------------
@@ -73,3 +78,5 @@ Least Common Multiple
 ::: tip Lemma
 The LCM of _a_ and _b_ is computed by: _ab_/gcd(_a_, _b_)
 :::
+
+
