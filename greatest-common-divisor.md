@@ -120,7 +120,9 @@ References & Resources
 * [Euclidean Algorithm][1], FSU Course Notes, Discrete Mathematics
 * [Extended Euclidean Algorithm][2], TODO include review of this, good description
 * [Khan academy, Euclidean Algorithm][3]
+* [Blog post with worked example][4]
 
 [1]: https://www.math.fsu.edu/~pkirby/mad2104/SlideShow/s5_2.pdf
 [2]: https://www.math.cmu.edu/~bkell/21110-2010s/extended-euclidean.html
 [3]: https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm
+[4]: https://forthright48.com/extended-euclidean-algorithm/

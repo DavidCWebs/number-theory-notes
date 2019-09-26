@@ -1,7 +1,11 @@
+diophantine-equations.md
 divisibility-cheatsheet.md
 divisibility.md
 division-by-2.md
+extended-euclideam-algorithm.md
 greatest-common-divisor.md
 modular-arithmetic.md
 numbers.md
+prime-numbers.md
 remainders.md
+unique-factorization.md

@@ -43,3 +43,20 @@ Divisibility by 2
 ::: tip Lemma
 An integer _a_ is divisible by 2 iff it's last digit is 0, 2, 4, 6 or 8
 :::
+
+Divisibility by 3
+-----------------
+::: tip Lemma
+An integer is divisible by 3 if the sum of the digits is divisible by 3.
+:::
+
+Divisibility by 6
+-----------------
+::: tip Lemma
+The prime factors of 6 are 2 and 3, so a number that is divisible by 6 must be divisible by two (it must be even) and three:
+
+A number is divisible by 6 if:
+
+* It's last digit is 0, 2, 4, 6 or 8 AND
+* The sum of digits is divisible by 3
+:::
