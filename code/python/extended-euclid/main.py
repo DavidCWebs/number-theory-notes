@@ -13,7 +13,6 @@ def detailed_extended_gcd(a, b):
         # The current a is the gcd. (1, 0) are the starting 
         # values for x and y respectively.
         d, x, y = a, 1, 0
-#        print_vals(d, x, y, i)
     else:
         # Run another iteration - the new a is the old b,
         # the new b is the old remainder (i.e. a % b).
@@ -21,10 +20,12 @@ def detailed_extended_gcd(a, b):
         # continue to call extended_gcd() from within until
         # b == 0
         (d, p, q) = detailed_extended_gcd(b, a % b)
+        
+        # x is previous y????
         x = q
-        y = p - q * (a // b)
-#        print_vals(d, x, y, i)
 
+        # y is previous previous y, less previous y multiplied by current quotient
+        y = p - q * (a // b)
     assert a % d == 0 and b % d == 0
     assert d == a * x + b * y
     return (d, x, y)

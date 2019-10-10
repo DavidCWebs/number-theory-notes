@@ -3,7 +3,10 @@ diophantine-equations.md
 divisibility-cheatsheet.md
 divisibility.md
 division-by-2.md
+eulers-totient-function.md
 extended-euclideam-algorithm.md
+fast-modular-exponentiation.md
+fermats-little-theorem.md
 greatest-common-divisor.md
 modular-arithmetic.md
 modular-division.md

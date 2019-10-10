@@ -21,6 +21,7 @@ Resources
 * [Introduction to Diophantine Equations][5]
 * [Number theory homework problems][6], CSU Fresno Number Theory with links to solutions
 * [Modular Arithmetic, Khan Academy][7], with practice quizzes
+* [Useful Notes, Maths Dept, Utah.edu][8]
 
 [1]: https://www.math.fsu.edu/~pkirby/mad2104/SlideShow/TableofContents.pdf
 [2]: http://www-math.ucdenver.edu/~wcherowi/courses/m5410/exeucalg.html
@@ -29,3 +30,4 @@ Resources
 [5]: http://www.geometer.org/mathcircles/diophantine.pdf
 [6]: http://zimmer.csufresno.edu/~tkelm/teaching/math116/homework/index.shtml
 [7]: https://www.khanacademy.org/computing/computer-science/cryptography#modarithmetic
+[8]: https://www.math.utah.edu/~fguevara/ACCESS2013/
